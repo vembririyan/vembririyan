@@ -1,6 +1,12 @@
-👋 Hi, I’m Vembri Riyan
-👀 I’m interested in Backend Developer
-🌱 I’m currently learning Codeigniter, Laravel and Node JS
+👋 Hallo, Saya Vembri Riyan
+👀 Saya Junior Fullstack Developer
+:computer: Bahasa Pemrograman yang pernah saya gunakan
+Java
+Kotlin
+PHP
+HTML
+JS
+
 📫 How to reach me 
 E-mail : vembrivrd@gmail.com
 Telegram : @vembririyan
