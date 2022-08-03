@@ -9,6 +9,13 @@
 :pushpin: JS\
 :pushpin: C#
 
+:computer: Framework yang pernah saya gunakan\
+:pushpin: Bootstrap\
+:pushpin: Tailwind CSS\
+:pushpin: Node Js\
+:pushpin: Codeigniter\
+:pushpin: Laravel\
+
 Hacker Rank : https://www.hackerrank.com/vembririyan
 
 📫 Kontak Saya \
