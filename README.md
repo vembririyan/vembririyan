@@ -16,6 +16,13 @@
 :pushpin: Codeigniter\
 :pushpin: Laravel\
 
+:computer: IDE yang pernah saya gunakan\
+:pushpin: Visual Studio Code\
+:pushpin: Sublime\
+:pushpin: Netbeans\
+:pushpin: Android Studio\
+:pushpin: Unity 3D
+
 Hacker Rank : https://www.hackerrank.com/vembririyan
 
 📫 Kontak Saya \
