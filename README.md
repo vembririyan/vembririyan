@@ -14,7 +14,7 @@
 :pushpin: Tailwind CSS\
 :pushpin: Node Js\
 :pushpin: Codeigniter\
-:pushpin: Laravel\
+:pushpin: Laravel
 
 :computer: IDE yang pernah saya gunakan\
 :pushpin: Visual Studio Code\
