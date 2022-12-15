@@ -1,6 +1,6 @@
 :smile: Hallo, Saya Vembri Riyan
 
-:man_technologist: Saya Junior Fullstack Developer\
+:man_technologist: Saya Fullstack Developer\
 :computer: Bahasa Pemrograman yang pernah saya gunakan\
 :pushpin: Java\
 :pushpin: Kotlin\
