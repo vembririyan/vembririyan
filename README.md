@@ -14,9 +14,9 @@
 :pushpin: Tailwind CSS\
 :pushpin: Node Js\
 :pushpin: Codeigniter\
-:pushpin: Laravel
-:pushpin: React JS
-:pushpin: React Native
+:pushpin: Laravel\
+:pushpin: React JS\
+:pushpin: React Native\
 :pushpin: Flutter
 
 :computer: IDE yang pernah saya gunakan\
