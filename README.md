@@ -1,34 +1,11 @@
-:smile: Hallo, Saya Vembri Riyan
+:smile: Hello, My name is Vembri Riyan, I'm a Mid Fullstack Developer :man_technologist:
 
-:man_technologist: Saya Fullstack Developer\
-:computer: Bahasa Pemrograman yang pernah saya gunakan\
-:pushpin: Java\
-:pushpin: Kotlin\
-:pushpin: PHP\
-:pushpin: HTML\
-:pushpin: JS\
-:pushpin: C#
+I have experience in several programming languages like Java, Kotlin, PHP, JS, C#
 
-:computer: Framework yang pernah saya gunakan\
-:pushpin: Bootstrap\
-:pushpin: Tailwind CSS\
-:pushpin: Node Js\
-:pushpin: Codeigniter\
-:pushpin: Laravel\
-:pushpin: React JS\
-:pushpin: React Native\
-:pushpin: Flutter
+And have experience in several frameworks like Bootstrap, Tailwind CSS, Node Js, Codeigniter,Laravel, React JS, React Native, Flutter
 
-:computer: IDE yang pernah saya gunakan\
-:pushpin: Visual Studio Code\
-:pushpin: Sublime\
-:pushpin: Netbeans\
-:pushpin: Android Studio\
-:pushpin: Unity 3D
+📫 My Contact \
+E-mail   : vembrivrd@gmail.com\
+Linkedin : https://www.linkedin.com/in/vembririyan/
+Discord  : vembririyan#7892
 
-Hacker Rank : https://www.hackerrank.com/vembririyan
-
-📫 Kontak Saya \
-E-mail : vembrivrd@gmail.com\
-Telegram : @vembririyan\
-Whatsapp : 0896-9713-4844
