@@ -7,5 +7,5 @@ And have experience in several frameworks like Bootstrap, Tailwind CSS, Node Js,
 📫 My Contact \
 E-mail   : vembrivrd@gmail.com\
 Linkedin : https://www.linkedin.com/in/vembririyan/ \
-Discord  : vembririyan#7892
+Discord  : vembri_riyan
 
