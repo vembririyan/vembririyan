@@ -1,6 +1,6 @@
 Hello, My name is Vembri Riyan, I'm a Senior Fullstack Developer :man_technologist:
 
-I have experience in several programming languages like Java, Kotlin, PHP, JS, C#
+I have experience in several programming languages like Java, Kotlin, PHP, JS, C#, Golang
 
 And have experience in several frameworks like Bootstrap, Tailwind CSS, Node Js, Codeigniter,Laravel, React JS, React Native, Flutter
 
