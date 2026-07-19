@@ -10,5 +10,5 @@ https://vembririyan.github.io/VLINE_Maker/
 📫 My Contact \
 E-mail   : vembrivrd@gmail.com\
 Linkedin : https://www.linkedin.com/in/vembririyan/ \
-Discord  : vembri_riyan
+Discord  : vembri_riyan \
 Website : https://vembri-riyan.vercel.app
