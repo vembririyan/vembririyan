@@ -11,7 +11,7 @@ https://vembririyan.github.io/VLINE_Maker/
 #  API Key Generator
 https://vembririyan.github.io/API_KEYGEN/
 
-📫 My Contact \
+# 📫 My Contact \
 E-mail   : vembrivrd@gmail.com\
 Linkedin : https://www.linkedin.com/in/vembririyan/ \
 Discord  : vembri_riyan \
